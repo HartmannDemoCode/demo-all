@@ -13,7 +13,7 @@
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 <!--        <remote.server>http://127.0.0.1/manager/text</remote.server>-->
-        <remote.server>http://167.71.57.117/manager/text</remote.server>
+        <remote.server>http://167.71.43.223/manager/text</remote.server>
         
     
     </properties>
