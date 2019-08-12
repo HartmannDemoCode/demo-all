@@ -15,7 +15,6 @@
 <!--        <remote.server>http://127.0.0.1/manager/text</remote.server>-->
         <remote.server>http://167.71.43.223/manager/text</remote.server>
         
-    
     </properties>
     
     <dependencies>
