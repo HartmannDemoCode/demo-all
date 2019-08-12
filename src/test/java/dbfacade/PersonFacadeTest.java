@@ -24,7 +24,8 @@ public class PersonFacadeTest {
     public static void setUpClass() {
         emf = EntityManagerFactoryCreator.getEntityManagerFactory(
                 "pu",
-                "jdbc:mysql://127.25.200.200:3306/mydb_test",
+//                "jdbc:mysql://127.25.200.200:3306/mydb_test",
+                "jdbc:mysql://167.71.43.223:3306/mydb_test",
                 "dev",
                 "ax2",
                 EntityManagerFactoryCreator.Strategy.DROP_AND_CREATE);
